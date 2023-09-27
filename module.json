@@ -1,0 +1,19 @@
+{
+  "id": "FreiChat",
+  "version": "2.0.0",
+  "name": "FreiChat",
+  "description": "A module to load FreiChat chat software",
+  "humhub": {
+    "minVersion": "1.14"
+  },
+  "keywords": ["chat"],
+  "screenshots": ["assets/sc1.png", "assets/sc2.png", "assets/sc3.png"],
+  "homepage": "https://freichat.com",
+  "authors": [
+		{
+			"name": "Nikolai Shcherbin",
+			"homepage": "https://wzm.me",
+			"role": "Developer"
+		}
+	]
+}
